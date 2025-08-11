@@ -43,7 +43,7 @@ You can provide additional arguments to control the style, color, and background
 
 ```bash
 # With style and/or color
-java TerminalKaraoke <lrc_file_path> [style] [color]
+java TerminalKaraoke <lrc_file_path> [style|color]
 
 # With style, color, and background color
 java TerminalKaraoke <lrc_file_path> [style] [color] [bgcolor]
